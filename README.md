@@ -1,0 +1,1 @@
+# allergy-sticker-generator-from-csv
